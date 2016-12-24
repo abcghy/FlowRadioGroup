@@ -17,6 +17,6 @@ allprojects {
 Step 2. Add the dependency
 ```
 dependencies {
-    compile 'com.github.abcghy:FlowRadioButton:0.1'
+    compile 'com.github.abcghy:FlowRadioGroup:0.1'
 }
 ```
