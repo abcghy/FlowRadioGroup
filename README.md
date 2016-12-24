@@ -1,4 +1,4 @@
-# FlowRadioButton
+# FlowRadioGroup
 FlowRadioGroup let you put all the RadioButton inside it.
 
 # How to use this?
